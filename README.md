@@ -70,8 +70,3 @@ key=password, value ='password'
 	
 For any clarification, mail me to : gauravsuman8@gmail.com
 
-# doselect
-# doselect
-# doselect
-# doselect
-# doselect
